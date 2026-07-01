@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6f0024/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說優填王經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0332.xml
+    old_id: T12n0332
+hash: sha256:a3b8ae59b1743fbb3b233ffe87fee32dbd7f6a2c11dcebddebb6c48b4b8a38b7
