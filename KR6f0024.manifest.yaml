@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6f0024_000.yaml, hash: 'sha256:a3b8ae59b1743fbb3b233ffe87fee32dbd7f6a2c11dcebddebb6c48b4b8a38b7'}
-  - {seq: 1, filename: KR6f0024_001.yaml, hash: 'sha256:2361e436d4b93a98ebc26f8c8bb45e298403cfe3c9400568b0897c20405ee0f9'}
+  - {seq: 1, filename: KR6f0024_001.yaml, hash: 'sha256:c78efeea9d9ff002fde480f5bd0321875d38ae1f8e756407677bcb5a54e16bd6'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6f0024_001.markers.yaml, hash: 'sha256:202cbb6895c58de237e86c65120092454666b02f4ea739ecbfa34dbb6e88b6a3'}
+  - {seq: 0, role: markers, filename: assets/KR6f0024_000.markers.yaml, hash: 'sha256:5d7859df125083594c3815ca6362bdbcfcc1f461d4d4dbb93671af96df457aa2'}
+  - {seq: 1, role: markers, filename: assets/KR6f0024_001.markers.yaml, hash: 'sha256:4a789d63c9c2661679e351f7389c4fa5c0f0f68493ef4ebb184a010c6c4e415a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 佛說優填王經
   type: juan
   level: 1
-hash: sha256:1930d83907b13abc8f8574559ab69f27479600e83be514fc974303893f3bc544
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:17bd01c401fbce5e473de14d1bc32f5ef83d823083148707a6bb58a56a14aa9e
